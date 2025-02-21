@@ -10,7 +10,7 @@ Jason Peifer is an Associate Professor in The Media School at Indiana University
 
 - **Political Communication:** image recognition, image generation, video captioning
 - **Journalism Studies:** meta-learning, incremental learning, transfer learning
-- **Public Opinion:** I do things.
+- **Public Opinion:** Institutional trust, perceptions of media.
 
 {% include_relative _includes/education.md %}
 
