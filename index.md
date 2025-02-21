@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-Sean Purcell is a digital health humanist who works at UCSF>
+Jason Peifer is an Associate Professor in The Media School at Indiana University, Bloomington>
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-- **Digital Health Humanities:** I do things.
+- **Political Communication:** image recognition, image generation, video captioning
+- **Journalism Studies:** meta-learning, incremental learning, transfer learning
+- **Public Opinion:** I do things.
 
 {% include_relative _includes/education.md %}
 
