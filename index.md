@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Jason Peifer is an Associate Professor in The Media School at Indiana University, Bloomington>
+Jason Peifer is an Associate Professor in The Media School at Indiana University, Bloomington
 
 ## Research Interests
 
