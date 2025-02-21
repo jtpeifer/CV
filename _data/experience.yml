@@ -1,6 +1,15 @@
 main:
 
   - type: education
+    degreepath: Ph.D. # for type.education.
+    institution: The Ohio State University
+    department: School of Communication
+    advisors: Dr. R. Lance Holbert & Dr. R. Kelly Garrett # for type.education.
+    thesis: "Perceived News Media Importance: News Parody, Valuations of the News Media, and Their Influence on Perceptions of
+Journalism"
+    years: 2011 - 2105
+
+  - type: education
     degreepath: This is a degree path # for type.education.
     institution: University University
     department: Lorem Ipsum
